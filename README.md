@@ -1,3 +1,3 @@
 # Kleiner-Perkins-Application
 
-Design Doc is uploaded as a pdf on this repo
+Design Doc and personal statment are uploaded as pdfs on this repo
